@@ -1,4 +1,4 @@
-<h1>Question Answering based Chatbot for disease prediction</h1>
+<h1>Question Answering System Based Healthcare Chatbot</h1>
 <hr>
 <h3>Description</h3>
 <p>
